@@ -50,7 +50,21 @@ bottom: 300px;
   height: 200px;
   width: 200px;
 }
-.skillImages {
-  height: 300px;
-  width: 300px;
+
+.skill-row {
+  width: 50% ;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.skillImage1 {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.skillImage2 {
+  border-radius: 50%;
+  width: 25%;
+  float: right;
+  margin-left: 30px;
 }
